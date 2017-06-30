@@ -53,7 +53,7 @@
     {
       "type": "Display.RenderTemplate",
       "template": {
-        "type": "BodyTemplate2",
+        "type": "BodyTemplate1",
         "token": "string",
         "backButton": "VISIBLE",
         "backgroundImage": "Image",
